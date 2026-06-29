@@ -21,3 +21,14 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Raw datasets
+data/raw/
+
+# Documentation datasets
+docs/
+
+# Temporary ETL scripts
+etl/temp_test.py
+etl/test_insert_region.py
+etl/update.py
